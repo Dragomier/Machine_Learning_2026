@@ -9,3 +9,4 @@ Homework 6 -- https://github.com/Dragomier/Machine_Learning_2026/blob/main/Homew
 Homework 7 -- https://github.com/Dragomier/Machine_Learning_2026/blob/main/Homework7.ipynb  
 Homework 8 -- https://github.com/Dragomier/Machine_Learning_2026/blob/main/Homework8.ipynb  (Animations work, when notebook is opened in Colab)  
 Homework 9 -- https://github.com/Dragomier/Machine_Learning_2026/blob/main/Homework9.ipynb  (This in an old version, I sent the link to the valid one via e-mail  
+Homework 10 -- https://github.com/Dragomier/Machine_Learning_2026/blob/main/Homework10.ipynb 
