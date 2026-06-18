@@ -13,4 +13,6 @@ Homework 7 -- https://github.com/Dragomier/Machine_Learning_2026/blob/main/Homew
 Homework 8 -- https://github.com/Dragomier/Machine_Learning_2026/blob/main/Homework8.ipynb  
 Homework 9 -- https://github.com/Dragomier/Machine_Learning_2026/blob/main/Homework9.ipynb  
 Homework 10 -- https://github.com/Dragomier/Machine_Learning_2026/blob/main/Homework10.ipynb   
-Homework 11 -- https://github.com/Dragomier/Machine_Learning_2026/blob/main/Homework11.ipynb 
+Homework 11 -- https://github.com/Dragomier/Machine_Learning_2026/blob/main/Homework11.ipynb  
+Homework 12 --   
+Homework 13 -- https://github.com/Dragomier/Machine_Learning_2026/blob/main/Homework13.ipynb  
