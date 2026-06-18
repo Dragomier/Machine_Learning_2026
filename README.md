@@ -1,6 +1,6 @@
 # Machine_Learning_2026
 
-**Informacja dla prowadzącego** Zgodnie z sugestią w ocenie pracy domowej nr 9, wydłużyłem czas treningu i poprawiłem rezultaty. Proszę o ponowne sprawdzenie.
+**Informacja dla prowadzącego** Zgodnie z sugestią w ocenie pracy domowej nr 9, wydłużyłem czas treningu i poprawiłem rezultaty. Proszę o ponowne sprawdzenie. Niestety pomimo zmniejszenia liczby animacji, plik ponownie okazał się zbyt duży, aby umieścić go tutaj, dlatego podaję link do GitHuba
 
 Homeworks from course "Machine Learning" taught in University of Warsaw in Spring 2026  
 Homework 1 -- https://github.com/Dragomier/Machine_Learning_2026/blob/main/Homework1.ipynb                          
